@@ -11,8 +11,7 @@ def getAccountID(String environment){
         case 'prod':
            return "give prod account id here"
         default:
-            return "nothing"
-        
+            return "nothing"     
         
 
 
